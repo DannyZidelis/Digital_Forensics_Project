@@ -1,0 +1,9 @@
+Software	Google
+Orientation	1
+ExifOffset	58
+ExifVersion	b'0220'
+ColorSpace	1
+ExifImageWidth	1536
+ExifImageHeight	2048
+ImageUniqueID	c5c1d687fe115df90000000000000000
+ExifInteroperabilityOffset	170

@@ -1,0 +1,9 @@
+Software	Picasa
+Orientation	1
+ExifOffset	58
+ExifVersion	b'0220'
+ColorSpace	1
+ExifImageWidth	700
+ExifImageHeight	1440
+ImageUniqueID	2e82ce6fd5695d5c0000000000000000
+ExifInteroperabilityOffset	170

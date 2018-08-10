@@ -30,22 +30,10 @@ def Main():
                                         tagname = TAGS.get(tag, tag)
                                         metaData[tagname] = value
                                         #loops through and appends the tags to the text file
-                                        with open(outfile, 'a+') as f:
-                                                for(tagname, value) in metaData.items():
-                                                        f.write(str(tagname)+"\t"+\
-                                                        str(value)+"\n")
-
-                        #print "jello"
-                        #print f
-                        try:
-                                hashy = hashlib.md5(open(f,'rb').read()).hexdigest()
-                                print("MD5 of the file is: ", hashy)
-                        except Exception:
-                                pass
-
-                        #print path
-                        #md5Checksum(path)
-
+                                with open(outfile, 'a+') as f:
+                                        for(tagname, value) in metaData.items():
+                                                f.write(str(tagname)+"\t"+\
+                                                str(value)+"\n")
 
 
 if __name__ == '__main__':

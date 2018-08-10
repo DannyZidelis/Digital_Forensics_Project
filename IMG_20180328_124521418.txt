@@ -1,0 +1,6 @@
+ImageWidth	3368
+ImageLength	672
+Orientation	0
+DateTime	2018:03:28 12:45:21
+ExifOffset	94
+LightSource	0

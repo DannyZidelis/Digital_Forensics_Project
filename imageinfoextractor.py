@@ -7,14 +7,6 @@ import PIL
 import openpyxl
 import xlsxwriter
 
-__author__ = 'Daniel Zidelis'
-
-
-# Create a workbook and add a worksheet.
-
-
-#search through the directory and loops through all of the files
-
 def Main():
     if os.path.isfile('Evidence.xlsx'):
         os.remove("Evidence.xlsx")
@@ -78,5 +70,10 @@ def Main():
                             row=row+1
 
     workbook.close()
+    search_date = input("Would you like to search by date? (y or n) ")
+    if search_date =='y':
+    search_loc = input("Would you like to search by location? (y or n) ")
+    if search_loc =='y':
+
 if __name__ == '__main__':
     Main()

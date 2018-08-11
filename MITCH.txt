@@ -1,3 +1,4 @@
+MITCH
 ExifImageWidth	2048
 ExifImageHeight	1536
 ResolutionUnit	2

@@ -1,3 +1,4 @@
+1105161424
 GPSInfo	{0: b'\x02\x02\x00\x00', 5: b'\x00', 6: (0, 1000)}
 ResolutionUnit	2
 ExifOffset	182

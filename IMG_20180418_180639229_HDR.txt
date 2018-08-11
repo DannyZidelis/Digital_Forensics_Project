@@ -1,3 +1,4 @@
+IMG_20180418_180639229_HDR
 GPSInfo	{0: b'\x02\x02\x00\x00', 18: 'WGS-84', 5: b'\x00'}
 ResolutionUnit	2
 ExifOffset	240

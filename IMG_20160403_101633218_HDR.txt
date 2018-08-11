@@ -1,38 +1,38 @@
-IMG_20180502_164645952_HDR
+IMG_20160403_101633218_HDR
 GPSInfo	{0: b'\x02\x02\x00\x00', 18: 'WGS-84', 5: b'\x00'}
 ResolutionUnit	2
-ExifOffset	240
+ExifOffset	242
 Make	Motorola
 Model	XT1585
-Software	kinzie_verizon-user 7.0 NCK25.118-10.5 6 release-keys
-DateTime	2018:05:02 16:46:46
+Software	kinzie_verizon-user 5.1.1 LCK23.130-23 23 release-keys
+DateTime	2016:04:03 10:16:33
 YCbCrPositioning	1
 XResolution	(72, 1)
 YResolution	(72, 1)
 ExifVersion	b'0220'
 ComponentsConfiguration	b'\x01\x02\x03\x00'
-ShutterSpeedValue	(1015, 100)
-DateTimeOriginal	2018:05:02 16:46:46
-DateTimeDigitized	2018:05:02 16:46:46
+ShutterSpeedValue	(989, 100)
+DateTimeOriginal	2016:04:03 10:16:33
+DateTimeDigitized	2016:04:03 10:16:33
 ApertureValue	(200000, 100000)
 BrightnessValue	(-1, 1)
 ExposureBiasValue	(0, 1)
 MaxApertureValue	(200000, 100000)
 MeteringMode	1
-Flash	24
+Flash	16
 FocalLength	(467, 100)
 ColorSpace	1
-ExifImageWidth	3006
-ExifInteroperabilityOffset	814
+ExifImageWidth	5344
+ExifInteroperabilityOffset	816
 SceneCaptureType	0
-ExifImageHeight	5344
+ExifImageHeight	3006
 Contrast	0
 Saturation	1
 Sharpness	1
-ExposureTime	(87, 100000)
+ExposureTime	(105, 100000)
 FNumber	(200000, 100000)
 SceneType	b'\x01'
-ImageUniqueID	5f10ce8f7cdeecbb0000000000000000
+ImageUniqueID	2c5b237760ed053c0000000000000000
 ExposureProgram	1
 CustomRendered	1
 ISOSpeedRatings	50
